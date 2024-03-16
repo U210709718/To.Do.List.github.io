@@ -1,3 +1,3 @@
-# To Do A list Website!
+# To Do A list Website! Copy the link below!
 
-[Link Text](U210709718/To.Do.A.List.github.io)
+U210709718/To.Do.A.List.github.io
